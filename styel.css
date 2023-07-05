@@ -1,0 +1,77 @@
+.container{
+    margin-bottom: 120px;
+}
+body{
+    
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 70px;
+background: #F0FFF0;
+}
+
+.frist-p{
+    color: #FD511A;
+}
+.secound-p{
+    color: gray;
+}
+.highlight{
+color: #21B573;
+}
+.buy-now-button{ 
+background: #21B573;
+border-radius: 33px;
+border: solid white;
+padding: 9px 25px;
+color: #fff;
+}
+
+.categories img{
+    width: 66px;
+    height: 85px;
+}
+.card{
+    
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card-titel{
+    color: #413960;
+}
+.card-text{
+    color: gray;
+}
+.text-h1{
+    text-align: center;
+    color: #413960;
+}
+.icon{
+    width: 18px;
+    height: 20px;
+}
+.card-p{
+    font-size: 16px;
+     line-height: 24px;
+     color: #585859;
+}
+.img{
+    height: 120px;
+    width: 120px;
+}
+.testimonal{
+    margin-bottom: 100px;
+}
+.fotter{
+ width: 1440px;
+height: 369px;
+left: 0px;
+top: 2013px;
+background: #282531;
+
+}
+.row-p{
+    color: #FFFFFF;
+
+}
